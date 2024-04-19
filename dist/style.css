@@ -268,10 +268,10 @@ a:hover {
 .img-1{
   position: absolute;
   display: block;
-  left: -240px;
-  top: -180px;
+  left: -200px;
+  top: -140px;
   z-index: 5;
-  width: calc(60% + 160px);
+  width: calc(40% + 160px);
   transform: translate3d(0, 0, 45px) perspective(100px);
   opacity: 1;
   pointer-events: auto;
@@ -316,10 +316,10 @@ a:hover {
 .img-6{
   position: absolute;
   display: block;
-  right: -150px;
-  bottom: -70px;
+  right: -270px;
+  bottom: -150px;
   z-index: 5;
-  width: calc(80% + 30px);
+  width: calc(110% + 30px);
   transform: translate3d(0, 0, 25px) perspective(100px) scale(1);
   opacity: 1;
   pointer-events: auto;
