@@ -371,10 +371,10 @@ a:hover {
 .img-7{
   position: absolute;
   display: block;
-  right: -30px;
-  bottom: -65px;
+  right: -120px;
+  bottom: -85px;
   z-index: 6;
-  width: calc(25% + 30px);
+  width: calc(55% + 30px);
   transform: translate3d(0, 0, 35px) perspective(100px) scale(0.5);
   opacity: 0;
   pointer-events: none;
