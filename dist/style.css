@@ -336,10 +336,10 @@ a:hover {
 .img-4{
   position: absolute;
   display: block;
-  left: -100px;
-  top: -170px;
+  left: -120px;
+  top: -100px;
   z-index: 5;
-  width: calc(65% + 60px);
+  width: calc(85% + 60px);
   transform: translate3d(0, 0, 45px) perspective(100px) scale(0.5);
   opacity: 0;
   pointer-events: none;
